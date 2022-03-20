@@ -1,1 +1,3 @@
-Crypto Wallet
+## Crypto Wallet
+
+### This is v1. I will update this project soon...
